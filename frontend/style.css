@@ -1,0 +1,198 @@
+/* --- start of CSS reset --- */
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: none;
+  box-sizing: border-box;
+  background: transparent;
+  font-family: inherit;
+}
+
+a {
+  text-decoration: none;
+}
+
+a img {
+  border: none;
+}
+
+button,
+a {
+  cursor: pointer;
+  color: inherit;
+}
+
+textarea {
+  resize: none;
+}
+
+button,
+textarea,
+select {
+  appearance: none !important;
+  border-radius: 0;
+}
+
+/* --- end of CSS reset --- */
+
+h1 {
+  background-color: #9fd9ef;
+  font-size: 50px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  height: 70px;
+  width: 500px;
+  align-items: center;
+  border-radius: 10px;
+}
+
+.title {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+table {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.b1 {
+  background-color: #c0cead;
+  width: 300px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 40px;
+  color: white;
+  border-radius: 10px;
+}
+
+.b2 {
+  background-color: #c0cead;
+  width: 300px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 40px;
+  color: white;
+  border-radius: 10px;
+  margin: auto;
+}
+
+.img1 {
+  margin-right: 20px;
+  border-radius: 50%;
+}
+
+td {
+  padding: 10px;
+}
+
+.x2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 100px;
+}
+
+.x3 {
+  display: flex;
+  justify-content: flex-end;
+  font-size: x-small;
+}
+
+/* aloldalra */
+
+.p_aloldal {
+  font-size: 40px;
+  background-color: #c0cead;
+  margin-bottom: 10px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  padding: 10px;
+  width: 781px;
+  text-align: center;
+}
+
+.p_aloldal1 {
+  font-size: 40px;
+  background-color: #c0cead;
+  margin-bottom: 30px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  width: 1100px;
+  padding: 10px;
+  text-align: justify;
+}
+
+.logo1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+}
+
+.logo2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title1 {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin-right: 150px;
+}
+
+/* Másik csapat */
+
+.x4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.p2 {
+  width: 1200px;
+  background-color: white;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 40px;
+  color: white;
+  border-radius: 10px;
+  border: 2px solid #c0cead;
+  transition: all 1.5s;
+}
+
+.title2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.pink {
+  background-color: #c0cead;
+}
